@@ -2300,7 +2300,7 @@
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
 			(hide yes)
-			(uuid "bfd1c35f-5876-48cb-8cb5-7666a6b57cd9")
+			(uuid "41d6af7c-7ac0-4939-9f77-fe5c68919eca")
 			(effects
 				(font
 					(size 1 1)
@@ -2311,7 +2311,7 @@
 		(property "Value" "MX_SW_solder"
 			(at 0 -3 0)
 			(layer "F.Fab")
-			(uuid "8198a3a3-eed9-4ae5-8f9c-33445fecdd6f")
+			(uuid "3f36670b-e3d7-455e-8724-c3480569a833")
 			(effects
 				(font
 					(size 1 1)
@@ -2323,7 +2323,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "092e30ff-1292-4830-aac9-e606c8f5d1c1")
+			(uuid "fa6e1885-8a72-4803-b141-e47d5264ab3a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2335,7 +2335,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83b7b951-e668-43ec-a306-367f9951a554")
+			(uuid "9c0902bf-97d7-4e0c-8bd9-ba1d3172dc4c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12777,14 +12777,14 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "6eff6bfa-bf6c-466d-a13b-810a247efcc4")
-		(at 177.67 31.24)
+		(at 33.655 33.3375)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "SW0,0"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
 			(hide yes)
-			(uuid "6a4c6b0b-b9a0-4793-b500-267dd50f2a99")
+			(uuid "21d0ea20-5f87-4cc9-a3b4-f26aac769768")
 			(effects
 				(font
 					(size 1 1)
@@ -12795,7 +12795,7 @@
 		(property "Value" "MX_SW_solder"
 			(at 0 -3 0)
 			(layer "F.Fab")
-			(uuid "1ce58f38-dda2-41bb-b3f6-a1bb4c99c69b")
+			(uuid "46628eca-128c-40ed-9edd-ed1dca6c1f19")
 			(effects
 				(font
 					(size 1 1)
@@ -12807,7 +12807,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "793feef0-63d9-4425-9186-e2624b2f8af8")
+			(uuid "30614dda-6852-40e8-ae60-07b9ed062a45")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12819,7 +12819,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28af6864-23ab-4458-8de2-b5b48795dacc")
+			(uuid "c9c97cf3-01fc-4bb1-ba74-53886553ab82")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19067,7 +19067,7 @@
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
 			(hide yes)
-			(uuid "6feb41d9-3c1a-476d-86fa-c338fca35e13")
+			(uuid "51243dd3-bcb7-4c92-9e91-28aff0b57c02")
 			(effects
 				(font
 					(size 1 1)
@@ -19078,7 +19078,7 @@
 		(property "Value" "MX_SW_solder"
 			(at 0 -3 0)
 			(layer "F.Fab")
-			(uuid "8b280622-b37b-4173-845f-7bc931002076")
+			(uuid "c81cabad-7297-4b29-a6ae-8b75e04abbd4")
 			(effects
 				(font
 					(size 1 1)
@@ -19090,7 +19090,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dfe239de-6b78-4f1c-8a74-b703f13f11ea")
+			(uuid "f21f4673-23bb-41fa-a6fc-4b49f8781df0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19102,7 +19102,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "48b5414f-4c0c-4d12-858a-11e03f0ac4ad")
+			(uuid "34f1e4cd-4e89-43e7-8060-622f456e2fa3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25718,14 +25718,14 @@
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "ef216adb-5fbf-4635-9a6b-a749653e7880")
-		(at 177.67 46.29)
+		(at 41.91 57.15)
 		(descr "Footprint for Cherry MX style switches")
 		(tags "cherry mx switch")
 		(property "Reference" "SW0,1"
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
 			(hide yes)
-			(uuid "fb3e88bd-e9aa-4ebc-9bc8-59cbc1c8756b")
+			(uuid "e8d7448c-77b3-40f6-b222-c808ff7537b6")
 			(effects
 				(font
 					(size 1 1)
@@ -25736,7 +25736,7 @@
 		(property "Value" "MX_SW_solder"
 			(at 0 -3 0)
 			(layer "F.Fab")
-			(uuid "bd524bbd-09e9-4167-8977-2d9c3e731ff9")
+			(uuid "ae641e62-10b7-4a53-ac54-7d87a347035e")
 			(effects
 				(font
 					(size 1 1)
@@ -25748,7 +25748,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d8a6e2f9-7e0d-4abe-93dc-f4200e0e71d5")
+			(uuid "5a0aea93-e2d8-4e98-9488-f0e55bd0bce5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25760,7 +25760,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "99536c0b-f958-48b2-9592-b3e24a81e838")
+			(uuid "4ba94f35-f3b7-4ef4-8ba8-ccd54580e5c3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26311,7 +26311,7 @@
 			(at 0 3.175 0)
 			(layer "Dwgs.User")
 			(hide yes)
-			(uuid "b1862b86-4e3a-4910-8464-d9c6ccfe1b6b")
+			(uuid "5eb72a5c-8fdd-4256-935a-643b0d69edca")
 			(effects
 				(font
 					(size 1 1)
@@ -26322,7 +26322,7 @@
 		(property "Value" "MX_SW_solder"
 			(at 0 -3 0)
 			(layer "F.Fab")
-			(uuid "d88f6071-9007-4096-842e-8fbe2ec6126f")
+			(uuid "b257a47a-a9bd-4d5f-9328-a18f2c3ba43c")
 			(effects
 				(font
 					(size 1 1)
@@ -26334,7 +26334,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4fd747d8-5531-4bc9-ab52-685492b242e1")
+			(uuid "2e83fe47-3efb-4d01-a542-ee5510e794b9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26346,7 +26346,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "39349781-ed82-4857-8ceb-7b2394a20810")
+			(uuid "574900f5-f8cb-4570-96ed-94bf8bbdc468")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28549,7 +28549,7 @@
 		(property "Reference" "SW72"
 			(at 0 3.6 0)
 			(layer "B.SilkS")
-			(uuid "f866091c-1394-47a3-9820-2f4d0bb43101")
+			(uuid "7b8b9870-75c1-4522-83c0-f929c36dcec4")
 			(effects
 				(font
 					(size 1 1)
@@ -28561,7 +28561,7 @@
 		(property "Value" "SW_Push"
 			(at 0 -3.6 0)
 			(layer "B.Fab")
-			(uuid "b91df1be-d244-48a3-bed2-262691d721d7")
+			(uuid "7eb3ad78-7d97-4545-9fa6-3a7afa6ee2b4")
 			(effects
 				(font
 					(size 1 1)
@@ -28574,7 +28574,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ea7c3d37-7f94-44d2-be9d-6a19c65de166")
+			(uuid "0bcb5cc0-b010-4acb-9f17-bf80c4327297")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28586,7 +28586,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0719fa4f-5b6f-4b3b-a56b-97a58518c934")
+			(uuid "c9eb72e9-d9d0-4334-be2e-65e5912841a1")
 			(effects
 				(font
 					(size 1.27 1.27)
