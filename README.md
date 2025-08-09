@@ -1,3 +1,6 @@
+# Modification 08/2025
+This PCB is based on the template below and should - once it is finished - fit into a Ampersand keyboard case and compatible other cases like dizzyskizzos Amperconcrete.
+
 # Keyboard PCB Integration with Microcontrollers
 
 This GitHub project provides guidance on integrating microcontrollers into keyboard PCBs. It focuses on the RP2040 microcontroller from the Raspberry Pi foundation, which offers several features such as a dual-core Arm Cortex-M0+ processor, multiple communication interfaces, and QMK/Via/Vial support.
